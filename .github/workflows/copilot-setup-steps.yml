@@ -13,7 +13,7 @@ jobs:
        ports:
          - 27017:27017
 
-
+    # Just a comment ok
     # Grant Copilot early access to read the repository content.
     permissions:
       contents: read
